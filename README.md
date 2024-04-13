@@ -1,38 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-    <title>My Website</title>
+    
+    <title>My Page</title>
     <style>
 
         header {
-            background-color:pink;
-            color: black;
+            background-color:red;
+            color: white;
             text-align: center;
             padding: 10px;
         }
         nav {
             background-color: white;
             padding: 10px;
+          
         }
-        nav ul {
-            padding: 10px;
-            margin: 10px;
-            text-align: center;
-        }
+        
         nav li {
             display: inline-block;
-            margin-right: 10px;
+            margin-right: 50px;
         }
         section {
-            padding: 20px;
-            background-color: pink;
+            padding: 10px;
+            background-color: lightgreen;
         }
         article {
-            border: 1px solid #ccc;
-            background-color: skyblue;
+            background-color: blue;
+            color: yellow;
             padding: 10px;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
         }
         
        
@@ -41,14 +38,12 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to My Page</h1>
         <nav>
-            <ul>
                 <li><a href="">Home</a></li>
                 <li><a href="">About</a></li>
-                <li><a href="">Services</a></li>
+                <li><a href="">Service</a></li>
                 <li><a href="">Contact</a></li>
-            </ul>
         </nav>
     </header>
     
